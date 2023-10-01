@@ -1,0 +1,15 @@
+[
+    {
+      "nombre": "Usuario1",
+      "contrasenia": "Contraseña1"
+    },
+    {
+      "nombre": "Usuario2",
+      "contrasenia": "Contraseña2"
+    },
+    {
+      "nombre": "Usuario3",
+      "contrasenia": "Contraseña3"
+    }
+  ]
+  
